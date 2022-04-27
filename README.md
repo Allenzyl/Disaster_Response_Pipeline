@@ -1,3 +1,4 @@
+
 # Disaster Response Pipeline Project
 
 ### Project Overview:
@@ -36,4 +37,9 @@ This project was written in Python 3.8. Packages needed:
     - train_classifier.py: Code trains the ML model to classify the text with the SQL database
 
 ### Summary of the results
-Screenshot 1:
+The following screenshots are from the web app. We can see that the news are the most common genre, and 'related' are the most common category in the dataset.
+
+Screenshot 1: 
+![Screenshot1](https://user-images.githubusercontent.com/40572896/165414267-11d04b7c-af69-4c34-a2cf-6cb2340ac28e.PNG)
+Screenshot 2:
+![Screenshot2](https://user-images.githubusercontent.com/40572896/165414268-3411bfe3-bfed-4058-813b-e7ef37121460.PNG)
